@@ -1,0 +1,1 @@
+ <?php include_once '../lib/conf/conexion.php'; $con = conectar(); echo "¡Conexión exitosa!"; 
